@@ -1,3 +1,5 @@
-* {
+.wide-content-host *, 
+html[dir] *
+{
     border: none !important;
 }
