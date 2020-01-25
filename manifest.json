@@ -10,7 +10,8 @@
             ],
             "matches": [
                 "https://outlook.office365.com/mail/*",
-                "https://outlook.office365.com/calendar/*"
+                "https://outlook.office365.com/calendar/*",
+                "https://outlook.office.com/mail/*"
             ]
         }
     ]
