@@ -3,3 +3,8 @@ html[dir] *
 {
     border: none !important;
 }
+
+.wide-content-host hr {
+    height: 1px;
+    width: 100%;
+}
